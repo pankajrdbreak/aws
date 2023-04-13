@@ -1,5 +1,5 @@
 ## Python script to add inbound rules with differnt port and same IP to multiple security groups
-#### 1.  I have multiple security groups to which I want to add two inbound rules with two IP,s & different ports.
+#### 1.  I have multiple security groups to which I want to add two inbound rules with two IP's & different ports.
 #### 2.  I will create csv which contains IP,Description,SG ID,Type tcp/udp,Port.
 #### 3.  Script will run in for loop and add rule to every sg mention in csv.
 
